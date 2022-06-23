@@ -1,34 +1,32 @@
 # Infinity - Bootstrap4 Coming Soon Template
 
-Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, contact form, about section where you can write a little bit about yourself and also feature section.
-
-Infinity based on Bootstrap 4 and offers Amazing design layout free of cost.
+Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, a contact form, an about section where you can write a little bit about yourself and also a feature section.
 
 <img src="https://cloud.githubusercontent.com/assets/10640964/21547903/299b8ffa-ce13-11e6-9a63-f4b941313b49.jpg" alt="Free bootstrap4 coming soon template by themefisher">
 
 **NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
 
-## Demo & Download 
+## Demo & Download
 
-A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=infinity">Demo</a>
-You can visit our website to download this theme <a href="https://themefisher.com/products/infinity-free-bootstrap-4-coming-soon-template/">Download Now</a>
- 
+A fully functional demo is available at <a href="http://demo.themefisher.com/infinity/">Demo</a>
+You can visit our website to download this theme <a href="https://themefisher.com/products/infinity">Download Now</a>
 
+<!-- reporting issue -->
+## Reporting Issues
 
-## Bugs Reports
+We use GitHub Issues as the official bug tracker for the infinity Template. Please Search [existing issues](https://github.com/themefisher/infinity/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/infinity/issues).
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template/issues/new).
+<!-- support -->
+## Technical Support or Questions (Paid)
 
-## Copyright and license
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
-copyright 2017 themefisher.com. Code released under [the MIT license](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template/blob/master/license.txt).
+<!-- licence -->
+## License
 
-## Support Themefisher Development
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-Infinity is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
+**Code License:** Released under the [MIT](https://github.com/themefisher/infinity/blob/main/LICENSE) license.
 
-
-### Check out our FREE Bootstrap & HTML5 Templates
-Get More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
-And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
-<a href="https://themefisher.com">Website</a>
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.

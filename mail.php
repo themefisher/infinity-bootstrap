@@ -14,4 +14,4 @@
     $body .= 'Message : '.$fields['message']. '<br>';
 
     $send = mail($to, $body, $headers);
-
+?>
